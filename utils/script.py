@@ -6,6 +6,9 @@ I Will filter your channel posts automatically and send it in your group chat wh
 
     HELP = """To Use me In A Group
 
+To Use me In A Group
+First Buy Subscription With - @BotOwner5g and Then
+It Will Cost index 10₹ Per Month
 - Add me in your group & channel with all permissions. 
 - Send /verify in group & wait for It To Accept Or Directly Contact To Owner After Request @GreyMatter_Bots.
 - After verification send /connect YourChannelID
