@@ -10,7 +10,7 @@ To Use me In A Group
 First Buy Subscription With - @BotOwner5g and Then
 It Will Cost index 10₹ Per Month
 - Add me in your group & channel with all permissions. 
-- Send /verify in group & wait for It To Accept Or Directly Contact To Owner After Request @GreyMatter_Bots.
+- Send /verify in group & wait for It To Accept Or Directly Contact To Owner After Request @BotOwner5g.
 - After verification send /connect YourChannelID
 - Example : /connect -100xxxxxxxxxx
 - Done ✅. <b><I>Enjoy 💜❤</I></b> )
